@@ -2,7 +2,6 @@ URL:
 http://api.tektravels.com/SharedServices/SharedData.svc/rest/Authenticate
 
 Request
-
 {
 "ClientId": "ApiIntegrationNew",
 "UserName": "hawker",
@@ -12,4 +11,41 @@ Request
 
 Response
 
+{
+
+"Status": 1,
+   
+"TokenId": "1eddeba4-fe24-490b-aba0-29e919338bfc",
+    
+"Error": 
+{
+
+"ErrorCode": 0,
+
+"ErrorMessage": ""
+
+},
+
+"Member": 
+{
  
+"FirstName": "Praveen",
+
+"LastName": "Rajput",
+
+"Email": "apitest@test.com",
+
+"MemberId": 46422,
+
+"AgencyId": 46455,
+
+"LoginName": "hawker",
+
+"LoginDetails": "Login Success at#@ 7/24/2018 1:39:46 PM #@ 
+IPAddress: 192.168.10.91",
+        
+"isPrimaryAgent": false
+
+}
+
+} 
