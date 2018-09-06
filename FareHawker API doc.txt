@@ -1,0 +1,14 @@
+URL:
+http://api.tektravels.com/SharedServices/SharedData.svc/rest/Authenticate
+
+Request
+
+{
+"ClientId": "ApiIntegrationNew",
+"UserName": "hawker",
+"Password": "hawker@123",
+"EndUserIp": "216.10.251.69"
+}
+
+Response
+ 
